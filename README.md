@@ -1,4 +1,4 @@
-# Portforlio
+# About Me
 List of some of my recent projects
 - 👋 Hi, I’m @TheOratorEse
 - 👀 I’m a backend developer working with PHP
